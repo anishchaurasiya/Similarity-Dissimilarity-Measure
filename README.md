@@ -11,12 +11,12 @@ Diagonal norm
 
 Mahalanobis norm 
 
-Lebesgue or Minkowski norm LMN Alpha value
+Lebesgue or Minkowski norm
 
-Cosine CS None
+Cosine
 
-Overlap OS None
+Overlap
 
-Dice DS None
+Dice 
 
 Jaccard
